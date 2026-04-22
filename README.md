@@ -10,7 +10,7 @@ A simple UI automation framework built with:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/dmytro-berezovskyi/)
 
 ## Features
-
+               
 - User-friendly UI automation framework.
 - Built on popular Python libraries: pytest and Selenium.
 - Supports **Chrome**, **Firefox**, and **Remote** browsers for UI testing.
